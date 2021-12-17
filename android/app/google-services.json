@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "9315594849",
+    "project_id": "stock-port",
+    "storage_bucket": "stock-port.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9315594849:android:fe5109ed7a2e19faaf7020",
+        "android_client_info": {
+          "package_name": "com.example.stock_port"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9315594849-l9arci415fe2bphp2q8v89qbc06lqqet.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWYLMdudjBwb2YJ2svWOsyNufaGEq-Dl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9315594849-l9arci415fe2bphp2q8v89qbc06lqqet.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
